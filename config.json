@@ -1,0 +1,11 @@
+{
+    "use_proxy": false,
+    "auto_upgrade_skill": false,
+    "auto_complete_task": false,
+    "auto_open_box": false,
+    "auto_open_box_max_price": 7000,
+    "auto_buy_item": false,
+    "auto_buy_item_max_price": 6000,
+    "account_delay": 5,
+    "countdown_loop": 3800
+}
